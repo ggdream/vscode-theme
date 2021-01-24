@@ -1,8 +1,8 @@
 export default {
-  background1: '#0e0f15',
-  background2: '#14161e',
-  background3: '#1a1d27',
-  background3Half: '#1F222D',
+  background1: '#292c38',
+  background2: '#292c38',   // // 代码区背景
+  background3: '#292c38',   // 代码区背景
+  background3Half: '#292c38',
   background4: '#292c38',
   selection: '#413b4f',
   dim1: '#494c59',

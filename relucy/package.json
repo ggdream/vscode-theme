@@ -1,0 +1,22 @@
+{
+    "name": "relucy",
+    "displayName": "relucy",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "publisher": "moca",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "魔咔啦咔",
+                "uiTheme": "vs-dark",
+                "path": "./themes/魔咔啦咔-color-theme.json"
+            }
+        ]
+    }
+}

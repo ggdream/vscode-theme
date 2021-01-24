@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+**/.vscode
 
 # misc
 .DS_Store
@@ -15,3 +16,4 @@ yarn-debug.log*
 yarn-error.log*
 id_rsa
 id_rsa
+*.vsix
